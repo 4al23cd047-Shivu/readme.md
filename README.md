@@ -1,5 +1,5 @@
 # readme.md
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Shiva-Kumar-S-M&theme=dark)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Shivu-Kumar-S-M&theme=dark)
 
 
 ## 🧠 LeetCode Stats
